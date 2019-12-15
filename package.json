@@ -1,6 +1,6 @@
 {
   "name": "ngx-dominicode-table",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,6 +9,14 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bezael/ngx-dominicode-table"
+  },
+  "keywords": [
+    "DataTable",
+    "ngx-dominicode-table"
+  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.14",
@@ -42,5 +50,7 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "author": "Bezael",
+  "license": "MIT"
 }
